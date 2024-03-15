@@ -6,7 +6,7 @@
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on HackerRank, LeetCode and read tech articles.
+- :zap: In my free time, I solve problems on HackerRank, and LeetCode and read tech articles.
 - 🔭 I’m currently working on a podcast app.
 - 🌱 I’m currently learning Flutter.
 
@@ -21,9 +21,9 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jhnaiem)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naiemmlbd)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhnaiem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naiemmlbd&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### :writing_hand: Blog Posts :
 
