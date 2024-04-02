@@ -2,13 +2,13 @@
 
 ### About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to Android for building Mobile applications.
+- :telescope: A Software Engineer specializing in developing mobile applications using Android, Flutter, and Kotlin Multiplatform technologies.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on HackerRank, and LeetCode and read tech articles.
 - 🔭 I’m currently working on a podcast app.
-- 🌱 I’m currently learning Flutter.
+- 🌱 I’m currently exploring Kotlin multiplatform.
 
 
 ### :hammer_and_wrench: Languages and Tools :
